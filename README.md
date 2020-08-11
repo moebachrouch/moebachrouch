@@ -5,8 +5,8 @@
 
 # I'm a 1<sup>st</sup> year Software Engineering student at [uOttawa]
 
-* 💻 Software developer
-* 🎹 Music producer
+* 💻  Software developer
+* 🎹  Music producer
 
 <img align="left" alt="LoudSoftware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true" />
 
