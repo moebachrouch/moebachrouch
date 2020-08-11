@@ -3,7 +3,7 @@
 <!--
 **moebachrouch/moebachrouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# I'm a 2<sup>nd</sup> year Software Engineering student at [uOttawa]
+# I'm a 2<sup>nd</sup> Year Software Engineering Student at [uOttawa]
 
 * 💻  Software developer
 * 🎹  Music producer
