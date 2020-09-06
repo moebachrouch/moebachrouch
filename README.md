@@ -5,10 +5,7 @@
 
 ### I'm a 2<sup>nd</sup> Year Software Engineering Student at [uOttawa].
 
-* 💻  Software developer
-* 🎹  Music producer
-
-### Check out my [portfolio] and my [resume]!
+### Check out my [portfolio] and my [resume].
 
 <img align="left" alt="LoudSoftware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true" />
 
