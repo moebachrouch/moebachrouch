@@ -13,5 +13,5 @@
 <img align="left" alt="LoudSoftware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true" />
 
 [uOttawa]: https://www.uottawa.ca/en
-[portfolio]: https://moebachrouch.github.io/portfolio/
+[portfolio]: https://moebachrouch.github.io/
 [resume]: https://moebachrouch.github.io/my-website/moe-bachrouch-resume.pdf
