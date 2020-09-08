@@ -11,4 +11,4 @@
 
 [uOttawa]: https://www.uottawa.ca/en
 [portfolio]: https://moebachrouch.github.io/
-[resume]: https://moebachrouch.github.io/my-website/moe-bachrouch-resume.pdf
+[resume]: https://drive.google.com/file/d/1Zd_RQ8mfPS9eTY8O_3Y0too1oS2nCsUZ/view?usp=sharing
