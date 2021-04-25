@@ -12,5 +12,3 @@
 [uOttawa]: https://www.uottawa.ca/en
 [portfolio]: https://moebachrouch.github.io/
 [resume]: https://drive.google.com/file/d/1Zd_RQ8mfPS9eTY8O_3Y0too1oS2nCsUZ/view?usp=sharing
-
-<span style="color:#3c3c3c">some *blue* text</span>.
