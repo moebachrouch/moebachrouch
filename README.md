@@ -5,7 +5,7 @@
 
 ### I'm a Software Engineering Student at [uOttawa].
 
-### Check out my [portfolio] and my [resume].
+### Check out my [resume].
 
 <img align="left" alt="LoudSoftware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true" />
 
