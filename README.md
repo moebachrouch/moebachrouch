@@ -21,13 +21,7 @@
 
 <img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/elixir/elixir-original.svg" />
 
-<img align="left" alt="Batch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg" />
-
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg" />
-
-<img align="left" alt="FireBase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" />
-
-<img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg" />
 
 <br/>
 <br/>
@@ -36,8 +30,6 @@
 
 <br/>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [uOttawa]: https://www.uottawa.ca/en
 [portfolio]: https://moebachrouch.github.io/
