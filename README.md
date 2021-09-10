@@ -40,6 +40,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
+<br/>
 
 [uOttawa]: https://www.uottawa.ca/en
 [portfolio]: https://moebachrouch.github.io/
