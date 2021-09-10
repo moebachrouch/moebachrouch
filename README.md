@@ -29,14 +29,12 @@
 
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" />
 
-<br />
-<br />
-
 <img align="left" alt="Moe Bachrouch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true&theme=synthwave" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moebachrouch&layout=compact)](https://github.com/moebachrouch/github-readme-stats)
 
 [uOttawa]: https://www.uottawa.ca/en
 [portfolio]: https://moebachrouch.github.io/
 [resume]: https://www.moebachrouch.com/moe-bachrouch-resume.pdf
 [website]: https://www.moebachrouch.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moebachrouch&layout=compact)](https://github.com/moebachrouch/github-readme-stats)
