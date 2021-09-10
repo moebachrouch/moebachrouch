@@ -29,7 +29,11 @@
 
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" />
 
+<br/>
+
 <img align="left" alt="Moe Bachrouch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true&theme=synthwave" />
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moebachrouch&layout=compact)](https://github.com/moebachrouch/github-readme-stats)
 
