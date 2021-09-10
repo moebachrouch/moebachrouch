@@ -35,6 +35,11 @@
 <img align="left" alt="Moe Bachrouch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true&theme=dracula" />
 
 <br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 [uOttawa]: https://www.uottawa.ca/en
 [portfolio]: https://moebachrouch.github.io/
