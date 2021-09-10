@@ -35,8 +35,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moebachrouch&layout=compact)](https://github.com/moebachrouch/github-readme-stats)
-
 [uOttawa]: https://www.uottawa.ca/en
 [portfolio]: https://moebachrouch.github.io/
 [resume]: https://www.moebachrouch.com/moe-bachrouch-resume.pdf
