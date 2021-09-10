@@ -7,8 +7,6 @@
 
 ### Check out my [website] and my [resume].
 
-<img align="left" alt="Moe Bachrouch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moebachrouch&show_icons=true&hide_border=true" />
-
 <br />
 
 ### Languages and Tools:
