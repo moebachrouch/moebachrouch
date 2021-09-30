@@ -5,7 +5,7 @@
 
 ### I'm a Software Engineering Student at [uOttawa].
 
-### Check out my [website] and my [resume].
+### Check out my [website], my [resume], and my ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <br/>
 
